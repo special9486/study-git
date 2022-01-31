@@ -1,5 +1,5 @@
 *.iml
 .classpath
 .project
-.setting/
+.settings/
 *.class
